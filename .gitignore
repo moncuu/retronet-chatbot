@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+.test-deps/
+__pycache__/
+.pytest_cache/
+.idea/
+*.log
+modern-preview.png
+node_modules/
+test-results/
+playwright-report/
