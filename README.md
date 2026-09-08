@@ -1,6 +1,6 @@
 # RetroNet '99
 
-Üstteki **Modernleştir · 2030** düğmesi arayüzü NovaNet tasarımına ve botu
+2030** düğmesi arayüzü NovaNet tasarımına ve botu
 2030 karakterine geçirir. **1999’a dön** ile geri dönebilirsiniz. Her dönemin
 sohbeti ve yazılmamış mesaj taslağı ayrı sekme belleğinde korunur; sayfa yenilenince
 silinir. Yanıt beklenirken dönem değiştirme geçici olarak kapatılır.
